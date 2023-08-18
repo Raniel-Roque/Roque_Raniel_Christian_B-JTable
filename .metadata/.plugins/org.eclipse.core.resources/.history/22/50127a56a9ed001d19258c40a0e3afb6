@@ -1,0 +1,11 @@
+package jTable;
+
+public class Main {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		POS Main = new POS();
+		Main.POS_Design();
+	}
+
+}

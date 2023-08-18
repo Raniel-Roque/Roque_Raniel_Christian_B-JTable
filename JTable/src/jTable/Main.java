@@ -1,0 +1,12 @@
+package jTable;
+
+public class Main {
+
+	public static void main(String[] args) {
+		//LOGIN INFORMATION: admin
+		//PASSWORD: 12345
+		Intro Main = new Intro();
+		Main.Intro_Design();
+	}
+
+}
